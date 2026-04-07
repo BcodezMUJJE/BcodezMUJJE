@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matege Billbright</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Cybersecurity Analyst | ML Chatbot Developer</h3>
+<h3 align="center">A Passionate FullStack Developer | Cybersecurity Analyst | ML Chatbot Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bcodezmujje&label=Profile%20views&color=0e75b6&style=flat" alt="bcodezmujje" />
