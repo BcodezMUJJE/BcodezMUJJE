@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=240&section=header&text=Matege%20Billbright&fontSize=62&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&desc=Full%20Stack%20Engineer%20%20%C2%B7%20%20Cybersecurity%20Analyst&descColor=8B949E&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=240&section=header&text=Matege%20Billbright&fontSize=62&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&desc=Software%20Engineer%20%20%C2%B7%20%20Cybersecurity%20Analyst&descColor=8B949E&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Building+secure%2C+scalable%2C+type-safe+systems;Full+Stack+Engineering+%2B+Cybersecurity-aware+design;Next.js+%7C+TypeScript+%7C+Supabase+%7C+PostgreSQL;Production-grade+architecture+by+default)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Full+Stack+Engineer+%C2%B7+Kampala%2C+Uganda;Building+Secure%2C+Scalable+Web+Systems;Cybersecurity+%7C+Machine+Learning+%7C+UI%2FUX;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="mailto:billbrightmatege@gmail.com">
   <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/matege-billbright-85aa74268/">
   <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>&nbsp;
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-</a>&nbsp;
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/BcodezMUJJE">
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>&nbsp;
+<a href="https://wa.me/256787828251">
+  <img src="https://img.shields.io/badge/WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=1F6FEB&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=BcodezMUJJE&color=1F6FEB&style=flat-square&label=Profile+Views" />
 
 </div>
 
@@ -29,139 +29,80 @@
 
 ---
 
-## Overview
+## About Me
 
-This is my personal **developer portfolio system** — built as a production-grade, full-stack application to demonstrate engineering depth, not just visual design.
+Software Engineer and Cybersecurity Analyst based in **Luzira, Kampala, Uganda**. I build secure, scalable full-stack systems with a strong emphasis on clean architecture, defensive design, and production-readiness.
 
-The architecture is intentionally layered around three principles: **end-to-end type safety**, **secure-by-default data access**, and **clean separation of concerns** between the UI, API, and database. Every decision reflects real engineering practice, not portfolio aesthetics.
+My work spans frontend engineering, backend API development, database design, and security hardening — with growing depth in machine learning and data-driven systems. I approach every project as a system design problem first, not a feature delivery problem.
 
----
-
-## System Architecture
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                        CLIENT LAYER                          │
-│    Next.js App Router  ·  React Server Components            │
-│    TypeScript (strict)  ·  TailwindCSS  ·  Framer Motion     │
-└──────────────────────────┬───────────────────────────────────┘
-                           │  REST  ·  Realtime WebSocket
-┌──────────────────────────▼───────────────────────────────────┐
-│                         API LAYER                            │
-│    Supabase Client SDK  ·  Next.js Server Actions            │
-│    Type-safe query layer  ·  Edge-ready endpoints            │
-└──────────────────────────┬───────────────────────────────────┘
-                           │
-┌──────────────────────────▼───────────────────────────────────┐
-│                      DATABASE LAYER                          │
-│    PostgreSQL  ·  Row Level Security  ·  Supabase Auth       │
-│    Hosted on Supabase Cloud (global edge replicas)           │
-└──────────────────────────┬───────────────────────────────────┘
-                           │
-┌──────────────────────────▼───────────────────────────────────┐
-│                     INFRASTRUCTURE                           │
-│    Vercel  ·  CI/CD  ·  Edge Network  ·  Preview Deploys     │
-└──────────────────────────────────────────────────────────────┘
-```
+Currently working as a **Debugging Engineer at SimpleNow**, resolving complex system-level issues and optimizing application performance at scale.
 
 ---
 
-## Tech Stack
+## Experience
+
+**Debugging Engineer** &nbsp;&nbsp;·&nbsp;&nbsp; SimpleNow &nbsp;&nbsp;·&nbsp;&nbsp; `2026 – Present`
+> Identifying and resolving system bugs, improving application performance, and ensuring platform stability through detailed debugging, testing, and optimization of web applications and backend systems.
+
+---
+
+**Senior Web Designer (Volunteer)** &nbsp;&nbsp;·&nbsp;&nbsp; The City Church, Luzira &nbsp;&nbsp;·&nbsp;&nbsp; `2025 – Present`
+> Designed and maintained a responsive website, managed updates and media integration, and enhanced user engagement through improved UI/UX and functional improvements.
+
+---
+
+**IT Officer** &nbsp;&nbsp;·&nbsp;&nbsp; Solis Uganda Limited &nbsp;&nbsp;·&nbsp;&nbsp; `2024 – 2025`
+> Managed IT infrastructure, maintained networks and systems, provided technical support, and ensured cybersecurity compliance while improving operational efficiency across the organization.
+
+---
+
+**Backend Developer Intern** &nbsp;&nbsp;·&nbsp;&nbsp; wHTa Networks — Kenya &nbsp;&nbsp;·&nbsp;&nbsp; `Feb 2024 – Apr 2024`
+> Developed APIs, maintained server-side logic, optimized databases, and contributed to building secure, scalable backend systems for web applications.
+
+---
+
+## Skills
 
 <div align="center">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark" />
 
-**Backend & Data**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,mysql&theme=dark" />
 
-**Infrastructure & Tooling**
+**Security, ML & Tooling**
 
-<img src="https://skillicons.dev/icons?i=vercel,github,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
 
 </div>
 
 <br/>
 
-| Layer | Technology | Role |
-|:------|:-----------|:-----|
-| Framework | Next.js 14 (App Router) | SSR, SSG, routing, server actions |
-| Language | TypeScript — strict mode | End-to-end type safety |
-| Styling | TailwindCSS + Framer Motion | Responsive UI + animations |
-| Backend | Supabase BaaS | Auth, realtime, storage, SDK |
-| Database | PostgreSQL | Relational data enforced with RLS |
-| Deployment | Vercel | Edge deployment, CI/CD, previews |
+| Domain | Technologies |
+|:-------|:-------------|
+| Frontend | HTML, CSS, JavaScript, React, Vite.js, TailwindCSS, Responsive Design |
+| Backend | Node.js, Express.js, Python (Flask), REST APIs, WhatsApp API, Mindbody |
+| Databases | MongoDB, MariaDB, MySQL |
+| Cybersecurity | Security Analysis, Vulnerability Assessment, Secure Coding Practices |
+| Machine Learning | Python (ML libraries), Model Training & Evaluation, Data Analysis |
+| Design & UX | Figma, Adobe Illustrator, Wireframing, User Flow Optimization |
+| DevOps & Tools | Git & GitHub, Postman, VS Code, cPanel, GitHub Pages, FTP, Terminal/CLI |
+| Other | SEO & Performance Optimization, Accessibility, WordPress |
 
 ---
 
-## Features
+## Education & Certifications
 
-| Feature | Status |
-|:--------|:------:|
-| Dynamic project listing from Supabase | `live` |
-| Contact form with secure backend storage | `live` |
-| Responsive, mobile-first UI | `live` |
-| Animated interface via Framer Motion | `live` |
-| Full-stack TypeScript type safety | `live` |
-| Row Level Security enforcement | `live` |
-| Admin dashboard for content management | `planned` |
-| Blog system with Markdown support | `planned` |
-| Auth-protected CMS panel | `planned` |
-| AI-powered portfolio assistant | `planned` |
-| Advanced analytics dashboard | `planned` |
-| Multi-theme support: dark / light / system | `planned` |
-
----
-
-## Database Schema
-
-```sql
--- Projects: dynamically rendered portfolio entries
-CREATE TABLE projects (
-  id          uuid         PRIMARY KEY DEFAULT gen_random_uuid(),
-  title       text         NOT NULL,
-  description text,
-  tech_stack  text[],
-  github_url  text,
-  demo_url    text,
-  image_url   text,
-  created_at  timestamptz  DEFAULT now()
-);
-
--- Messages: contact form submissions
-CREATE TABLE messages (
-  id         uuid         PRIMARY KEY DEFAULT gen_random_uuid(),
-  name       text         NOT NULL,
-  email      text         NOT NULL,
-  message    text         NOT NULL,
-  created_at timestamptz  DEFAULT now()
-);
-
--- Security: restrict public write access via RLS
-ALTER TABLE projects ENABLE ROW LEVEL SECURITY;
-ALTER TABLE messages ENABLE ROW LEVEL SECURITY;
-
-CREATE POLICY "Public read"  ON projects FOR SELECT USING (true);
-CREATE POLICY "Insert only"  ON messages FOR INSERT WITH CHECK (true);
-```
-
----
-
-## Engineering Principles
-
-```typescript
-const principles = {
-  type_safety:     "Strict TypeScript across every layer — no implicit any, no escape hatches",
-  security:        "RLS by default; the database is never exposed directly to the client",
-  architecture:    "UI, API, and data layers are independently replaceable",
-  performance:     "Server-side rendering where it matters, static generation where possible",
-  scalability:     "Schema and components built to extend, not rewrite",
-  maintainability: "Self-documenting code over clever code",
-} as const;
-```
+| Qualification | Institution | Year |
+|:-------------|:-----------|:----:|
+| Diploma in Computer Science | Kampala International University | 2024 – 2026 |
+| Diploma in Machine Learning with Python | Alison | 2024 – 2026 |
+| Google Cybersecurity Professional Certificate | Coursera | 2024 |
+| Meta Front-End Developer Professional Certificate | Coursera | 2023 |
+| ALX Software Engineering Certificate — Backend | ALX Africa | 2023 |
 
 ---
 
@@ -169,41 +110,27 @@ const principles = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB&count_private=true&include_all_commits=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=BcodezMUJJE&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F6FEB&count_private=true&include_all_commits=true" />
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcodezMUJJE&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="56%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=EA4335&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+<img width="56%" src="https://streak-stats.demolab.com/?user=BcodezMUJJE&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=EA4335&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
 
 </div>
 
 ---
 
-## Roadmap
+## Languages
 
-```
-  SHIPPED ─────────────────────────────────────────────────────
-  [x]  Dynamic project listing from Supabase
-  [x]  Contact form with secure backend storage
-  [x]  Responsive, mobile-first UI
-  [x]  Framer Motion animated interface
-  [x]  Full-stack TypeScript — strict mode
-  [x]  Row Level Security policies enforced
-
-  NEXT ────────────────────────────────────────────────────────
-  [ ]  Admin dashboard for project management         (v2)
-  [ ]  Blog system with Markdown + CMS                (v2)
-  [ ]  Auth-protected admin panel                     (v2)
-
-  FUTURE ──────────────────────────────────────────────────────
-  [ ]  AI-powered portfolio assistant                 (v3)
-  [ ]  Advanced analytics dashboard                  (v3)
-  [ ]  Multi-theme UI: dark / light / system          (v3)
-```
+| Language | Level |
+|:---------|:------|
+| English | Professional working proficiency |
+| Luganda | Native |
+| Lusoga | Native |
 
 ---
 
@@ -217,25 +144,25 @@ const principles = {
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/matege-billbright-85aa74268/">
   <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>&nbsp;
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<a href="https://github.com/BcodezMUJJE">
+  <img src="https://img.shields.io/badge/BcodezMUJJE-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>&nbsp;
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<a href="https://wa.me/256787828251">
+  <img src="https://img.shields.io/badge/%2B256%20787%20828251-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
 </a>
+
+<br/><br/>
+
+**Location &nbsp;·&nbsp; Luzira, Kampala, Uganda** &nbsp;&nbsp;|&nbsp;&nbsp; **Open to remote and freelance opportunities**
 
 </div>
 
 ---
 
 <div align="center">
-
-**Status** &nbsp;·&nbsp; Actively maintained &nbsp;·&nbsp; Production deployed &nbsp;·&nbsp; Continuously evolving
-
-<br/>
 
 *"Good systems are not built by adding more — but by designing better."*
 
